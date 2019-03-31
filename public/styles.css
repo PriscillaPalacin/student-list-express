@@ -1,0 +1,25 @@
+body {
+  background-image: url(img/class.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  width: 30%;
+  background-color: #587;
+  margin-left: 35%;
+}
+
+li {
+  color: white;
+  list-style: none;
+}
+
+input {
+  margin-left: 25%;
+  width: 40%;
+}
